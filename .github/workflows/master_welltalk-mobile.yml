@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'welltalk-mobile'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_88954C2277084860B99B6E814A80A929 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AF11B94E5C44404B855CFFB48766998E }}
           package: '*.jar'
